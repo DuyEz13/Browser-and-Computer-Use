@@ -1,4 +1,4 @@
-# Browser-and-Computer-Use
+# Browser and Computer-Use
 
 ## Agent-S3-Testing
 This folder contains the code and the detailed information for the test cases used during the trial runs with Agent S3.
